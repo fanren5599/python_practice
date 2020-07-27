@@ -1,0 +1,1 @@
+test whether the command(git add) could add the last  context
